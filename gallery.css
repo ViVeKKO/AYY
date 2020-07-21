@@ -1,0 +1,55 @@
+img{
+	width: 400px;
+    height: 350px;
+	padding: 20px;
+	float: left;
+	margin: 0 auto;
+
+    
+}
+/* img:hover{
+    /* position: absolute; */
+    /* top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    z-index: 100;
+    width: 200%;
+} */ 
+hr{
+	height: 1px;
+}
+footer{
+    /* margin-top: 70vh; */
+    background-color: #007bff;
+    color: black;
+}
+
+/* .white{
+    color: blue;
+} */
+footer a:hover{
+    color: navajowhite;
+    text-decoration: none;
+}
+#yes{
+    color: black;
+}
+#abc{
+    /* background-color:#59353A; */
+    background-image: none;
+}
+.jumbotron{
+    color: currentColor;
+}
+
+.navbar-toggler-icon {
+    display: inline-block;
+    width: 1.5em;
+    height: 1.5em;
+    vertical-align: middle;
+    content: "";
+    background: white;
+    border-radius: 20px;
+    /* padding: 23px; */
+    background-size: 100% 100%;
+}

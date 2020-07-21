@@ -1,0 +1,35 @@
+
+img{
+  width: 550px;
+  height: 400px;
+  padding: 20px;
+  float: right;
+  margin: 0 auto;
+}
+p{
+  font-size: 20px;
+  padding: 20px;
+}
+h2{
+  padding: 20px;
+}
+h1{
+  font-size: 30px;
+  text-align: center;
+}
+a:hover {
+  color: palegoldenrod;
+  text-decoration: none;
+}
+
+.navbar-toggler-icon {
+  display: inline-block;
+  width: 1.5em;
+  height: 1.5em;
+  vertical-align: middle;
+  content: "";
+  background: white;
+  border-radius: 20px;
+  /* padding: 23px; */
+  background-size: 100% 100%;
+}
